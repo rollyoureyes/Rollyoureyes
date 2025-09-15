@@ -14,15 +14,13 @@
     <img src="assets/imgs/teaser.jpg">
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <video width="320" height="240" controls>
-    <source src="assets/supplementary/subject0016_gaze_redirection_res.mp4" type="video/mp4">
-  </video>
+## Demo Videos
 
-  <video width="320" height="240" controls>
-    <source src="assets/supplementary/subject0028_gaze_redirection_sep_res.mp4" type="video/mp4">
-  </video>
-</div>
+| Subject 0016 Gaze Redirection | Subject 0028 Gaze Redirection |
+|:------------------------------:|:------------------------------:|
+| ![Demo 1](assets/imgs/subject0016_demo.gif) | ![Demo 2](assets/imgs/subject0028_demo.gif) |
+
+more demo videos are on supplementary
 
 ## Code will be released soon
 
